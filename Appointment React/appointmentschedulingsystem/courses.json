@@ -1,0 +1,28 @@
+{
+    "courses":[
+        {
+            "courseName":"java",
+            "trainerName":"Narmadha"
+        },
+        {
+            "courseName":"Python",
+            "trainerName":"Pooja"
+        },
+        {
+            "courseName":"CSS",
+            "trainerName":"Vanishree"
+        },
+        {
+            "courseName":"ReactJS",
+            "trainerName":"Arvind"
+        },
+        {
+            "courseName":"ReactJS",
+            "trainerName":"Arvind"
+        },
+        {
+            "courseName":"ReactJS",
+            "trainerName":"Arvind"
+        }
+    ]
+}
